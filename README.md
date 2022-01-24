@@ -1,4 +1,4 @@
-  https://user-images.githubusercontent.com/87812667/150788362-d6408f77-b65b-46db-93a6-278927ffe35d.mp4
+  ![Video Animated Search Bar](https://user-images.githubusercontent.com/87812667/150793509-c9310c06-68b8-49d5-ba7f-e653b16f8410.gif)
 
 # Animated Search Bar
 
@@ -6,4 +6,4 @@ Hi, I'm **Rafiq**. I want to share with you about **"Animated Search Bar"** for 
 
 > FOLLOW ME FOR MORE !
 
-![Animated Search Bar](https://user-images.githubusercontent.com/87812667/150792169-7bac5834-f73d-4fc2-8ea0-357b426995bb.gif)
+ https://user-images.githubusercontent.com/87812667/150788362-d6408f77-b65b-46db-93a6-278927ffe35d.mp4
