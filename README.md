@@ -6,4 +6,8 @@ Hi, I'm **Rafiq**. I want to share with you about **"Animated Search Bar"** for 
 
 > FOLLOW ME FOR MORE !
 
+- [GitHub](https://github.com/AimanRafiq/)
+- [Instagram](https://www.instagram.com/_.aimanrafiq/)
+- [Discord](https://discord.com) (rafiq.procode #2957)
+
  https://user-images.githubusercontent.com/87812667/150788362-d6408f77-b65b-46db-93a6-278927ffe35d.mp4
