@@ -2,7 +2,7 @@
 
 # Animated Search Bar
 
-Hi, I'm **Rafiq**. I want to share with you about **"Animated Search Bar"** for HTML. You can download the code for **FREE** in the file above. **_Thank you_**.
+Hi, I'm **Rafiq**. I want to share with you about **"Animated Search Bar"** for **HTML**. You can download the code for **FREE** in the file above. **_Thank you_**.
 
 > FOLLOW ME FOR MORE !
 
